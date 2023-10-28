@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PokemonInfoCompose</string>
+    <string name="camera_title">Camera</string>
+    <string name="faq_title">FAQ</string>
+
+    <string name="none">none</string>
+
+    <string name="name">Grigorash Pavel</string>
+    <string name="group">IKBO–06–21</string>
+    <string name="created_by">Created by</string>
+    <string name="created_for">
+        for\n
+        Development of mobile applications in the Kotlin language\n
+        Course-3
+    </string>
+</resources>
